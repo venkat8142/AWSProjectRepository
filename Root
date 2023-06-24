@@ -1,7 +1,24 @@
-Develloper-1
+_________________________________________________________
+Root -> Developer1
+Ins id - (i-00d89373eac78f29e)
 Create a HTML Signup page with the given fields
 >Full Name
 >Mobile No.
 >Email
 >Password
 > repeat password 
+_________________________________________________________
+Developer1 -> Root
+Ins id - (i-00d89373eac78f29e)
+File created and uploaded in the bucket
+_________________________________________________________
+Root -> Developer2
+Ins id - (i-0034d61619bcd5db9)
+Create a HTML Login page with the given fields
+>Email
+>Password
+_________________________________________________________
+Developer2 -> Root
+Ins id - (i-0034d61619bcd5db9)
+File created and uploaded in the bucket
+_________________________________________________________
